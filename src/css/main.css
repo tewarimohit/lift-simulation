@@ -4,7 +4,6 @@ section {
     flex-direction: column;
     width: 700px;
     height:500px;
-    background-color: aqua;
 }
 
 .d-flex{
